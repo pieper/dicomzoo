@@ -31,3 +31,4 @@ Strawman plan:
 ## Related Projects
 * Some [early discussion about IPFS](https://docs.google.com/document/d/1DfQ3AZfXBuv51PP7shKi7QP0Nm90W0KRBVMI9-rIB5g/edit#) led to a list of datasets to start with.
 * Something similar already exists in the [dcmjs-org/data](https://github.com/dcmjs-org/data) project, but with less ambitious goals and no DICOMweb hosting.
+* Sample data from [Aliza](https://www.aliza-dicom-viewer.com/download/datasets)
